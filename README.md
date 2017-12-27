@@ -1,2 +1,2 @@
 # projects
-Try new things
+Try new things in computing 
